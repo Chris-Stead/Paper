@@ -12,3 +12,7 @@ method
 
 #Results
 results
+
+#Figures
+Figure
+
