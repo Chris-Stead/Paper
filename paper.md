@@ -8,4 +8,4 @@ Chris Stead, John Smith
 Introduction
 
 #Method 
-method, SMPS used
+method 
