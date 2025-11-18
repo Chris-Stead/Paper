@@ -16,3 +16,6 @@ results
 #Figures
 Figure
 
+#Authors affiliation
+Chris UoM
+John UoM
