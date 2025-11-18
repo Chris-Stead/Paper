@@ -1,21 +1,21 @@
-#Title
+# Title
 Simulations Title
 
-#Author
+# Author
 Chris Stead, John Smith 
 
-#Introduction
+# Introduction
 Introduction
 
-#Method 
+# Method 
 method 
 
-#Results
+# Results
 results
 
-#Figures
+# Figures
 Figure
 
-#Authors affiliation
+# Authors affiliation
 Chris UoM
 John UoM
