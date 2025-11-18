@@ -1,8 +1,8 @@
 #Title
-Title
+Simulations Title
 
 #Author
-Chris Stead
+Chris Stead, John Smith 
 
 #Introduction
 Introduction
